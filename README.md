@@ -19,6 +19,7 @@ A new tree encoding and matching scheme is introduced to support deep trees whil
 
 <figure align="center">
   <img width="635" height="915" alt="FINC-Tree-Encoding" src="https://github.com/user-attachments/assets/38a3dd60-7349-4a62-a0f2-7e27880f213a" />
+  <br>
   <figcaption><i>FINC-Tree-Encoding Scheme.</i></figcaption>
 </figure>
 
