@@ -17,7 +17,10 @@ FINC builds upon SetTree, a powerful tree-based model that supports variable-len
 
 A new tree encoding and matching scheme is introduced to support deep trees while remaining within the SRAM and TCAM constraints of programmable switches. The system is implemented in P4 and evaluated on real IDS and DDoS datasets. The results show that our method achieves significantly higher accuracy than prior work using SRAM, and matches the accuracy of TCAM-based approaches while requiring much shallower trees and using a short window of only the first six packets of each flow.
 
-<img width="635" height="915" alt="FINC-Tree-Encoding" src="https://github.com/user-attachments/assets/38a3dd60-7349-4a62-a0f2-7e27880f213a" />
+<figure align="center">
+  <img width="635" height="915" alt="FINC-Tree-Encoding" src="https://github.com/user-attachments/assets/38a3dd60-7349-4a62-a0f2-7e27880f213a" />
+  <figcaption><i>FINC-Tree-Encoding Scheme.</i></figcaption>
+</figure>
 
 
 ## Requirements
